@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/amanda/Desktop/University/COMPSCI_3GC3_Assignments/3GC3_Assignment1_task3",
+      "program": "/Users/amanda/Desktop/University/COMPSCI_3GC3_Assignments/3GC3_Assignment1_task3/build/Debug/outDebug"
+    }
+  ]
+}
